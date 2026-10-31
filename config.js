@@ -1,1 +1,1 @@
-window.CONTRA_CFG={NAME:"CONTRA",TICKER:"CONTRA",CA:"",CHAIN:"solana",PAD:"pump.fun",PAIR:"",X:"",BUY:"",CHART:"",TARGET:"",HL:""};
+window.CONTRA_CFG={NAME:"CONTRA",TICKER:"CONTRA",CA:"CsJKZCLnPAuiUQkwbwhEmtXib78PBpWMtvLu68Ddpump",CHAIN:"solana",PAD:"pump.fun",PAIR:"",X:"https://x.com/contrawallet",BUY:"https://pump.fun/coin/CsJKZCLnPAuiUQkwbwhEmtXib78PBpWMtvLu68Ddpump",CHART:"https://gmgn.ai/sol/token/CsJKZCLnPAuiUQkwbwhEmtXib78PBpWMtvLu68Ddpump",TARGET:"",HL:""};
